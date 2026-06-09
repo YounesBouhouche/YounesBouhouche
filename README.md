@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesbouhouche&label=Profile%20views&color=0e75b6&style=flat" alt="younesbouhouche" /> </p>
 
-- 🔭 I’m currently working on [Music Player (Android)](https://github.com/YounesBouhouche/MusicPlayer)
+- 🔭 I’m currently working on [SecureVault (Android)](https://github.com/YounesBouhouche/SecureVault)
 
-- 🌱 I’m currently learning **Advanced Android, Flutter and Laravel**
+- 🌱 I’m currently learning **Advanced Android (Security, Communication and Agentic Development), React and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://ybcoding.netlify.app/](https://ybcoding.netlify.app/)
 
